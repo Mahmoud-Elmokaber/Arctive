@@ -1,0 +1,26 @@
+{
+  "@@locale": "ar",
+  "appTitle": "أركتايف",
+  "loginTitle": "تسجيل الدخول",
+  "loginSubtitle": "هيكل أولي جاهز للعربية والإنجليزية للمصادقة.",
+  "dashboardTitle": "لوحة التحكم",
+  "dashboardSubtitle": "واجهة مؤقتة لعمليات المستندات المهنية.",
+  "documentsTitle": "المستندات",
+  "documentsSubtitle": "واجهة مؤقتة لمكتبة المستندات للخطوات القادمة.",
+  "documentDetailsTitle": "تفاصيل المستند",
+  "documentDetailsSubtitle": "معرّف المستند: {documentId}",
+  "@documentDetailsSubtitle": {
+    "description": "نص فرعي يتضمن معرّف المستند.",
+    "placeholders": {
+      "documentId": {
+        "type": "String"
+      }
+    }
+  },
+  "scanTitle": "مسح OCR",
+  "scanSubtitle": "واجهة مؤقتة لمسح المستندات واستخراج النص.",
+  "alertsTitle": "التنبيهات",
+  "alertsSubtitle": "واجهة مؤقتة لمراجعة التنبيهات والامتثال.",
+  "analyticsTitle": "التحليلات",
+  "analyticsSubtitle": "واجهة مؤقتة لتتبع الأداء ورؤى المستندات."
+}

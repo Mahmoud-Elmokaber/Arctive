@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397013667016",
+    "project_id": "arctive-92040",
+    "storage_bucket": "arctive-92040.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397013667016:android:c47e8039089cfbe6c869fd",
+        "android_client_info": {
+          "package_name": "com.example.acrtive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNj3vx442QYu3PxwXM9CsRPcX7DGuHWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

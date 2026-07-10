@@ -1,0 +1,26 @@
+{
+  "@@locale": "en",
+  "appTitle": "Arctive",
+  "loginTitle": "Login",
+  "loginSubtitle": "Arabic and English-ready authentication scaffold.",
+  "dashboardTitle": "Dashboard",
+  "dashboardSubtitle": "Professional document operations dashboard placeholder.",
+  "documentsTitle": "Documents",
+  "documentsSubtitle": "Documents library placeholder for future workflows.",
+  "documentDetailsTitle": "Document details",
+  "documentDetailsSubtitle": "Document ID: {documentId}",
+  "@documentDetailsSubtitle": {
+    "description": "Subtitle that includes the document identifier.",
+    "placeholders": {
+      "documentId": {
+        "type": "String"
+      }
+    }
+  },
+  "scanTitle": "OCR Scan",
+  "scanSubtitle": "Scan and extract document text placeholder.",
+  "alertsTitle": "Alerts",
+  "alertsSubtitle": "Review alerts and compliance notifications placeholder.",
+  "analyticsTitle": "Analytics",
+  "analyticsSubtitle": "Track sector performance and document insights placeholder."
+}
